@@ -10,38 +10,77 @@
 
 I build AI applications, automations, internal tools, and occasionally things that sounded like a good idea at 2am.
 
----
 
-### Currently
-
-* Building AI agents
-* Exploring OpenClaw
-* Automating CRM workflows
-* Studying AWS
-
----
-
-### Things I've Built
-
-* Tribal Dialect Dental Chatbot
-* Recruitment Platform
-* Employee Mood Index
-* CRM Intelligence Systems
-* Outreach Agent
-* Invoice Agent
-* Sales Reminder Automation
+Currently focused on:
+- Agentic AI
+- CRM Intelligence Systems
+- Workflow Automation
+- Browser Agents
+- AWS Cloud
 
 ---
 
-### Lately
+## Building
+
+### Tribal Dialect Dental Assistant
+AI-powered chatbot for patient support and appointment workflows.
+
+### Recruitment Platform
+Candidate sourcing, screening, and hiring automation.
+
+### Employee Mood Index
+Anonymous weekly employee sentiment tracking and reporting.
+
+### CRM Intelligence System
+Automated CRM insights, executive summaries, and sales monitoring.
+
+### Outreach Agent
+Personalized prospect research and outbound workflow automation.
+
+### Invoice Agent
+Automated invoice generation and delivery.
+
+### Sales Reminder
+Daily sales activity tracking and executive reporting.
+
+---
+
+## Interests
 
 - OpenClaw
-- MCP
-- Browser Agents
-- Agent Memory
+- Model Context Protocol (MCP)
+- Browser Automation
+- Agent Memory Systems
 - Workflow Engines
 - Semantic Search
+- Retrieval Systems
+- Multi-Agent Architectures
 - AWS
+- Knowledge Graphs
+
+---
+
+## Toolbox
+
+**AI & Agents**
+
+Python • OpenAI • Anthropic • Gemini • LangGraph • PydanticAI • MCP
+
+**Automation**
+
+n8n • Supabase • PostgreSQL • Redis • Resend
+
+**Cloud**
+
+AWS • Docker • Linux
+
+**Frontend**
+
+Next.js • React • TypeScript • TailwindCSS
+
+---
+
+> Building systems that automate work, surface insights, and make teams faster.
 
 ### Featured Projects
 
