@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sidd154/sidd154/main/banner.png" />
+  <img src="https://raw.githubusercontent.com/sidd154/sidd154/main/sid-github-banner.png" />
 </p>
 
 
