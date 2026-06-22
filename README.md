@@ -33,21 +33,32 @@ I build AI applications, automations, internal tools, and occasionally things th
 
 ---
 
-### Toolbox
+### Things I Like Working On
 
 ```text
-Python • FastAPI • TypeScript • Supabase
+Agents
+├─ LangGraph
+├─ CrewAI
+├─ OpenClaw
+├─ MCP
+└─ Agent Memory
 
-OpenAI • Claude • Gemini
+Retrieval
+├─ RAG
+├─ Vector Search
+├─ Semantic Search
+└─ Knowledge Graphs
 
-LangGraph • CrewAI • MCP
+Automation
+├─ Browser Automation
+├─ Workflow Engines
+├─ API Integrations
+└─ Event Pipelines
 
-n8n • Zoho CRM • Resend
-
-AWS • Docker • Linux
-```
-
----
+Infrastructure
+├─ AWS
+├─ Docker
+└─ Linux
 
 ### Featured Projects
 
