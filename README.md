@@ -83,13 +83,6 @@ Slack
 
 ---
 
-## Technologies
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,fastapi,postgres,supabase,docker,linux,git,github,aws" />
-</p>
-
----
 
 ## Featured Work
 
@@ -100,6 +93,7 @@ Built an AI-powered dental assistance chatbot designed to communicate in tribal 
 ### Employee Mood Index
 
 Anonymous employee sentiment platform focused on identifying workplace trends through weekly feedback.
+
 
 ### CRM Intelligence Systems
 
