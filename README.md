@@ -35,19 +35,21 @@ I build AI applications, automations, internal tools, and occasionally things th
 
 ### Things I Like Working On
 
-### Recent Rabbit Holes
+### Lately
 
-```text
 OpenClaw
-MCP
-Agent Memory
-Browser Agents
-RAG Pipelines
-Semantic Search
-Workflow Engines
-Human-in-the-Loop Systems
-```
 
+MCP
+
+Agent Memory
+
+Browser Agents
+
+RAG Pipelines
+
+Workflow Engines
+
+Human-in-the-Loop Systems
 
 ### Featured Projects
 
