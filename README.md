@@ -35,29 +35,19 @@ I build AI applications, automations, internal tools, and occasionally things th
 
 ### Things I Like Working On
 
-Agents
-├─ LangGraph
-├─ CrewAI
-├─ OpenClaw
-├─ MCP
-└─ Agent Memory
+### Recent Rabbit Holes
 
-Retrieval
-├─ RAG
-├─ Vector Search
-├─ Semantic Search
-└─ Knowledge Graphs
+```text
+OpenClaw
+MCP
+Agent Memory
+Browser Agents
+RAG Pipelines
+Semantic Search
+Workflow Engines
+Human-in-the-Loop Systems
+```
 
-Automation
-├─ Browser Automation
-├─ Workflow Engines
-├─ API Integrations
-└─ Event Pipelines
-
-Infrastructure
-├─ AWS
-├─ Docker
-└─ Linux
 
 ### Featured Projects
 
