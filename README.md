@@ -1,103 +1,83 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sidd154/sidd154/main/sid-github-banner.png" />
+  <img src="https://raw.githubusercontent.com/sidd154/sidd154/main/banner.png" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=AI+Applications;Workflow+Automation;Agent+Experiments;Internal+Tools" />
+</p>
 
-I spend a lot of time building things with AI, automating stuff that shouldn't require humans, and occasionally creating new problems while trying to solve existing ones.
+# Hey, I'm Sid.
 
-Recent projects include a dental chatbot that communicates in tribal dialects, a recruitment platform, employee sentiment tracking, CRM intelligence systems, and a bunch of AI workflow experiments.
-
----
-
-## Things I've Been Messing Around With
-
-* AI agents
-* Browser automation
-* CRM automation
-* Multi-agent workflows
-* OpenClaw
-* MCP
-* RAG
-* Making APIs talk to each other
-* Convincing LLMs to behave
+I build AI applications, automations, internal tools, and occasionally things that sounded like a good idea at 2am.
 
 ---
 
-## Current Side Quests
+### Currently
+
+* Building AI agents
+* Exploring OpenClaw
+* Automating CRM workflows
+* Studying AWS
+
+---
+
+### Things I've Built
+
+* Tribal Dialect Dental Chatbot
+* Recruitment Platform
+* Employee Mood Index
+* CRM Intelligence Systems
+* Outreach Agent
+* Invoice Agent
+* Sales Reminder Automation
+
+---
+
+### Toolbox
 
 ```text
-[ ] Pass AWS Solutions Architect Associate
-[ ] Build something people use every day
-[ ] Stop creating new projects
-[x] Create new projects anyway
+Python • FastAPI • TypeScript • Supabase
+
+OpenAI • Claude • Gemini
+
+LangGraph • CrewAI • MCP
+
+n8n • Zoho CRM • Resend
+
+AWS • Docker • Linux
 ```
 
 ---
 
-## A Few Things I've Built
+### Featured Projects
 
-### Tribal Dialect Dental Chatbot
+<a href="https://github.com/sidd154/Employee-Mood-Index">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidd154&repo=Employee-Mood-Index&theme=github_dark&hide_border=true" />
+</a>
 
-An AI-powered dental assistant designed to communicate in tribal dialects and improve access to information.
+<a href="https://github.com/sidd154/SkillBridge_Platform">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidd154&repo=SkillBridge_Platform&theme=github_dark&hide_border=true" />
+</a>
 
-### Recruitment Platform
+<a href="https://github.com/sidd154/Outreach_Agent">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidd154&repo=Outreach_Agent&theme=github_dark&hide_border=true" />
+</a>
 
-Built for managing candidates, applications, and hiring workflows.
-
-### Employee Mood Index
-
-Weekly anonymous employee sentiment tracking.
-
-### CRM Intelligence Systems
-
-Automated reporting systems that turn CRM activity into executive-level insights.
-
-### OpenClaw Experiments
-
-Exploring browser agents and autonomous workflows.
+<a href="https://github.com/sidd154/Invoice_Agent">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidd154&repo=Invoice_Agent&theme=github_dark&hide_border=true" />
+</a>
 
 ---
 
-## Toolbox
+### GitHub
 
-```text
-Python
-FastAPI
-PostgreSQL
-Supabase
-
-OpenAI
-Claude
-Gemini
-
-LangGraph
-CrewAI
-AutoGen
-PydanticAI
-
-n8n
-Zoho CRM
-Resend
-
-AWS
-Docker
-Linux
-```
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sidd154&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidd154&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
-## Featured Repositories
-
-[ your pinned repo cards here ]
-
----
-
-## GitHub Stats
-
-[ stats cards here ]
-
----
-
-## Elsewhere
+### Elsewhere
 
 Hugging Face → https://huggingface.co/sid231
