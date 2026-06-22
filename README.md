@@ -33,23 +33,15 @@ I build AI applications, automations, internal tools, and occasionally things th
 
 ---
 
-### Things I Like Working On
-
 ### Lately
 
-OpenClaw
-
-MCP
-
-Agent Memory
-
-Browser Agents
-
-RAG Pipelines
-
-Workflow Engines
-
-Human-in-the-Loop Systems
+- OpenClaw
+- MCP
+- Browser Agents
+- Agent Memory
+- Workflow Engines
+- Semantic Search
+- AWS
 
 ### Featured Projects
 
