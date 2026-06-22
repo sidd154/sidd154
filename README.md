@@ -22,14 +22,9 @@ Currently focused on:
 
 ## Building
 
-### Tribal Dialect Dental Assistant
-AI-powered chatbot for patient support and appointment workflows.
 
 ### Recruitment Platform
 Candidate sourcing, screening, and hiring automation.
-
-### Employee Mood Index
-Anonymous weekly employee sentiment tracking and reporting.
 
 ### CRM Intelligence System
 Automated CRM insights, executive summaries, and sales monitoring.
@@ -62,13 +57,10 @@ Daily sales activity tracking and executive reporting.
 
 ## Toolbox
 
-**AI & Agents**
-
-Python • OpenAI • Anthropic • Gemini • LangGraph • PydanticAI • MCP
 
 **Automation**
 
-n8n • Supabase • PostgreSQL • Redis • Resend
+n8n • Supabase • PostgreSQL • Redis •  • LangGraph • PydanticAI • MCP
 
 **Cloud**
 
