@@ -1,139 +1,147 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:1E293B&text=Sid&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=AI%20Systems%20%E2%80%A2%20Automation%20%E2%80%A2%20Products&descAlignY=60" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=2000&center=true&vCenter=true&width=900&lines=Building+AI+Systems;Automating+Boring+Work;Turning+Processes+Into+Products;Learning+In+Public" />
-</p>
-
 # Sid
 
-I build AI systems, automations, and software that solve real-world problems.
+I'm a freelance developer focused on AI applications, workflow automation, internal tools, and business software.
 
-Over the past few years I've worked as a freelance developer and automation consultant, building solutions across AI, CRM systems, internal tools, business automation, and web applications.
-
-Most of my work sits at the intersection of software, AI, and business operations. I enjoy turning repetitive processes into systems and ideas into products.
+Most of my projects involve connecting APIs, databases, CRMs, and AI models to automate workflows, reduce manual work, and make information easier to act on.
 
 ---
 
-## Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,supabase,docker,linux,git,github,aws" />
-</p>
-
-<p align="center">
-AI • Agents • Automation • APIs • SaaS • System Design
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/OpenAI-412991?logo=openai">
-<img src="https://img.shields.io/badge/Claude-black">
-<img src="https://img.shields.io/badge/Gemini-4285F4?logo=google">
-<img src="https://img.shields.io/badge/LangGraph-orange">
-<img src="https://img.shields.io/badge/CrewAI-purple">
-<img src="https://img.shields.io/badge/AutoGen-blue">
-<img src="https://img.shields.io/badge/PydanticAI-red">
-<img src="https://img.shields.io/badge/Agno-green">
-<img src="https://img.shields.io/badge/MCP-grey">
-</p>
-
----
-
-## Featured Projects
+## Projects
 
 ### Tribal Dialect Dental Chatbot
 
-Built an AI-powered dental assistance chatbot designed to communicate in tribal dialects, making dental information more accessible to underserved communities.
+Built an AI-powered dental chatbot designed to communicate in tribal dialects and improve access to dental information.
 
-### Recruitment Platform for Virtusa Hackathon
+### Recruitment Platform
 
-Designed and developed a recruitment platform focused on candidate discovery, application management, and hiring workflows.
+Built a recruitment platform focused on candidate discovery, application management, and hiring workflows.
 
 ### Employee Mood Index
 
-Anonymous employee sentiment platform focused on identifying workplace trends through weekly feedback.
+Anonymous weekly employee sentiment tracking platform designed to surface workplace trends without tracking individuals.
 
 ### CRM Intelligence Systems
 
-Executive reporting and CRM automation systems that transform operational data into actionable insights.
+Built reporting systems that transform CRM activity into executive-level summaries and actionable insights.
 
 ### AI Workflow Automation
 
-Agent-powered workflows connecting CRMs, databases, APIs, and LLMs into automated business processes.
+Built workflows connecting CRMs, APIs, databases, email systems, and LLMs to automate repetitive business processes.
 
 ### OpenClaw Experiments
 
-Explored browser automation, autonomous workflows, and agent orchestration through OpenClaw projects and experiments.
+Explored browser agents, autonomous workflows, and agent orchestration using OpenClaw.
 
 ---
 
-## Project Cards
+## Tools I Use
 
-<a href="https://github.com/sidd154/REPO_NAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidd154&repo=REPO_NAME" />
-</a>
+### AI
 
-<a href="https://github.com/sidd154/REPO_NAME_2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidd154&repo=REPO_NAME_2" />
-</a>
+```text
+OpenAI
+Claude
+Gemini
 
-<a href="https://github.com/sidd154/REPO_NAME_3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidd154&repo=REPO_NAME_3" />
-</a>
+LangGraph
+CrewAI
+AutoGen
+Agno
+PydanticAI
 
-<a href="https://github.com/sidd154/REPO_NAME_4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidd154&repo=REPO_NAME_4" />
-</a>
+MCP
+RAG
+Vector Databases
+```
+
+### Backend
+
+```text
+Python
+FastAPI
+Node.js
+
+PostgreSQL
+Supabase
+```
+
+### Automation
+
+```text
+n8n
+Zoho CRM
+Resend
+
+REST APIs
+Webhooks
+```
+
+### Infrastructure
+
+```text
+AWS
+Docker
+Linux
+
+Git
+GitHub Actions
+```
 
 ---
 
-## Areas I Enjoy Working In
+## Technologies
 
-* Agentic AI
-* Multi-Agent Systems
-* Workflow Automation
-* Internal Tools
-* AI Applications
-* Business Operations
-* CRM Intelligence
-* SaaS Products
-* API Integrations
-* Product Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,supabase,docker,linux,git,github,aws" />
+</p>
 
 ---
 
-## Experience
+## Featured Repositories
 
-* Freelance Software Developer
-* AI Application Development
-* Business Process Automation
-* CRM Automation & Integrations
-* Internal Tool Development
-* API & Workflow Engineering
+<!-- Replace these with your actual repositories -->
 
----
+<a href="https://github.com/sidd154/REPO_1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidd154&repo=REPO_1" />
+</a>
 
-## Currently Exploring
+<a href="https://github.com/sidd154/REPO_2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidd154&repo=REPO_2" />
+</a>
 
-* Advanced Agent Architectures
-* MCP Ecosystems
-* RAG Systems
-* Agent Memory Systems
-* Production AI Applications
-* Distributed Systems
-* AWS Solutions Architecture
+<a href="https://github.com/sidd154/REPO_3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidd154&repo=REPO_3" />
+</a>
+
+<a href="https://github.com/sidd154/REPO_4">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sidd154&repo=REPO_4" />
+</a>
 
 ---
 
 ## Recently Built
 
-* Tribal Dialect Dental Chatbot
-* Recruitment Platform (Virtusa Hackathon)
-* Employee Mood Index
-* CRM Executive Briefing Automation
-* AI Workflow Systems
-* OpenClaw Experiments
+```text
+Tribal Dialect Dental Chatbot
+Recruitment Platform
+Employee Mood Index
+CRM Executive Reporting Automation
+Zoho CRM Workflow Automation
+OpenClaw Experiments
+```
+
+---
+
+## Currently Exploring
+
+```text
+Multi-agent systems
+MCP ecosystems
+Browser agents
+OpenClaw
+Production AI deployments
+AWS architecture
+```
 
 ---
 
@@ -154,11 +162,9 @@ Explored browser automation, autonomous workflows, and agent orchestration throu
 
 ---
 
-## Connect
+## Elsewhere
 
-* GitHub: https://github.com/sidd154
-* Hugging Face: https://huggingface.co/sid231
-
----
-
-> Build useful things. Ship often. Keep learning.
+```text
+GitHub      : github.com/sidd154
+HuggingFace : huggingface.co/sid231
+```
