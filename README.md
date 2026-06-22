@@ -35,7 +35,6 @@ I build AI applications, automations, internal tools, and occasionally things th
 
 ### Things I Like Working On
 
-```text
 Agents
 ├─ LangGraph
 ├─ CrewAI
