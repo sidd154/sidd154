@@ -1,12 +1,12 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sidd154/sidd154/main/banner.png" />
-</p>
+
+
+
+
+# Hey, I'm Sid.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=AI+Applications;Workflow+Automation;Agent+Experiments;Internal+Tools" />
 </p>
-
-# Hey, I'm Sid.
 
 I build AI applications, automations, internal tools, and occasionally things that sounded like a good idea at 2am.
 
